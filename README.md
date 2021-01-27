@@ -1,4 +1,4 @@
-# San Francisco Rental Property Analysis (2016 - 2016)
+# San Francisco Rental Property Analysis (2010 - 2016)
 This analysis and dashboard presents a visual analysis of historical prices of house units, sale prices per square foot and gross rent in San Francisco, California
 from 2010 to 2016. 
 
